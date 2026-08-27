@@ -1,4 +1,5 @@
 n = int(input("Enter number: "))
+
 binary = ""
 
 while n > 0:
