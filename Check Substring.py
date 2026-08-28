@@ -3,6 +3,5 @@ sub = input("Enter substring: ")
 
 if sub in str1:
     print("Substring Present")
-    
 else:
     print("Substring Not Present")
