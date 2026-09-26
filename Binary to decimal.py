@@ -1,7 +1,6 @@
 binary = input("Enter binary: ")
 
 decimal = 0
-
 power = 0
 
 for i in range(len(binary)-1, -1, -1):
