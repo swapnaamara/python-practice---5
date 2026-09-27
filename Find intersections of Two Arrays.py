@@ -19,4 +19,5 @@ for i in range(n1):
         if a[i] == b[j]:
             
             print(a[i], end=" ")
+            
             break
