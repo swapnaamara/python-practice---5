@@ -7,5 +7,4 @@ for c in s:
     if c!= ch:
         result += c
         
-
 print(result)
