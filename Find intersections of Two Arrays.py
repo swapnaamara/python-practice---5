@@ -15,6 +15,7 @@ print("Intersection:", end=" ")
 for i in range(n1):
     
     for j in range(n2):
+        
         if a[i] == b[j]:
             print(a[i], end=" ")
             break
