@@ -6,7 +6,6 @@ for i in range(1, n//2 + 1):
         sum += i
 
 if sum == n:
-    print("Perfect")
-    
+    print("Perfect")    
 else:
     print("Not Perfect")
