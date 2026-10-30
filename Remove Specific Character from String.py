@@ -1,5 +1,4 @@
 s = input("Enter string: ")
-
 ch = input("Enter character to remove: ")
 
 result = ""
